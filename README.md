@@ -10,6 +10,5 @@ A refatoração buscou:
 
 - separar responsabilidades em métodos menores
 - melhorar a legibilidade
-- facilitar testes unitários
 - reduzir a duplicação de lógica
 - tornar o fluxo principal mais claro
